@@ -62,6 +62,8 @@ This organization hosts two main repositories, each with a distinct role:
     *   Data transmission to Firebase
         
     *   Gas sensor calibration and accurate PPM calculations
+ 
+    *   Printing information onto hardware LCD screen
         
 *   **Technologies:**
     
@@ -71,7 +73,7 @@ This organization hosts two main repositories, each with a distinct role:
 📽️ Project Demonstration
 -------------------------
 
-For a detailed visual walkthrough of our project's capabilities, view our demonstration video here: Project Demonstration Video
+For a detailed visual walkthrough of our project's capabilities, view our demonstration video here: [Product Final Demonstration Video](https://www.youtube.com/watch?v=IpNYZnkPiDw)
 
 🚀 Getting Started
 ------------------
